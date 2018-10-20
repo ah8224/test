@@ -17,7 +17,6 @@ body{
 
 #subhead{
 	font-size: 1.6em;
-	text-align: center;
 	font-weight: bold;
 	color: black;
 }
@@ -29,7 +28,6 @@ body{
 	font-size: 1.1em;
 	color: black;
 	background-color: white;
-	text-align: center;
 	margin-left: 0px;
 	border: 1px solid black;
 }
